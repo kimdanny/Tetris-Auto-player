@@ -5,7 +5,12 @@
     - In your command line, type
         python3 tetris.py
   
+
+
+
+
 <Playing Instruction>
+  
   - Moving block to
       LEFT  -> Press 'a' or left arrow
       RIGHT -> Press 's' or right arrow
